@@ -1,0 +1,3 @@
+C:/Users/GRIGS/Desktop/Raft4etoBG/cmake-build-debug/CMakeFiles/Raft4etoBG.dir
+C:/Users/GRIGS/Desktop/Raft4etoBG/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/GRIGS/Desktop/Raft4etoBG/cmake-build-debug/CMakeFiles/rebuild_cache.dir
